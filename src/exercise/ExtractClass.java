@@ -1,6 +1,7 @@
 package exercise;
 
 public class ExtractClass {
+	// commit 2
     class TelephoneNumber {
         private String officeAreaCode;
         private String officeNumber;

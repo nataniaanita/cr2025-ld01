@@ -2,7 +2,7 @@ package exercise;
 import java.util.Enumeration;
 
 public class ExtractMethod {
-
+// commit 3
     public static void main(String[] args) {
         ExtractMethod test = new ExtractMethod("Andi");
         test.printOwing();

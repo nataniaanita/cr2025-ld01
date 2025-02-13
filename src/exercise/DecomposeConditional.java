@@ -3,7 +3,7 @@ import java.util.Date;
 
 
 public class DecomposeConditional {
-
+// commit 1
 	class Stadium {
 		  private final Date SUMMER_START = new Date(1500);
 		  private final Date SUMMER_END = new Date(2500);
